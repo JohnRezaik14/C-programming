@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1730376762 source:e:\iti\c-lap\lap-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1730640355 source:e:\iti\open source - alex\c-lap\lap-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+

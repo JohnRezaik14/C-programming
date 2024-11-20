@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730135459 source:e:\iti\c-lap\trainning\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
